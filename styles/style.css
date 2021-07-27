@@ -4,11 +4,19 @@
     background-color:#A4BC46;
     color: white;
 }
+.background-color-card-image{
+    background-color: #F1F1F1;
+    height:400px;
+}
+.background-color-card{
+    background-color: white;
+    
+}
 
 /* Nav Bar Styles */
 .navigation-bar{
     background-color: #FFFBF0;
-    ;
+    
 }
 
 /* Header Section  */
