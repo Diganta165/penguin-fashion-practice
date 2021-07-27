@@ -1,0 +1,23 @@
+/* Common Styles */
+
+.button-color{
+    background-color:#A4BC46;
+    color: white;
+}
+
+/* Nav Bar Styles */
+.navigation-bar{
+    background-color: #FFFBF0;
+    ;
+}
+
+/* Header Section  */
+.header-section{
+    background-color:#FFFBF0 ;
+}
+.highlight-color-one{
+    color:#FABE4C;
+}
+.hightlight-color-two{
+    color: #363958;
+}
